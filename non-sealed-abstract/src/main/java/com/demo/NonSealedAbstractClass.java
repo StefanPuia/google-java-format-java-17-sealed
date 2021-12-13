@@ -1,5 +1,5 @@
 package com.demo;
 
-public abstract non-sealed class NonSealedAbstractClass extends SealedClass {
+public non-sealed abstract class NonSealedAbstractClass extends SealedClass {
 
 }
